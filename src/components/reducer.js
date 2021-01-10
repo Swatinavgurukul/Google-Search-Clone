@@ -1,5 +1,5 @@
 export const initialState = {
-  term: null,
+  term: "navgurukul",
 };
 export const actionTypes = {
     SET_SEARCH_TERM : "SET_SEARCH_TERM"
